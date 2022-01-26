@@ -1,4 +1,4 @@
-A Python package for scrapping at ***https://xvideos.com***.
+A Python package that allows you to scrape xvideos in an extremely simple way.
 
 ***
 
