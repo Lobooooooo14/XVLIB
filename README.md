@@ -1,5 +1,5 @@
 [![documentation](https://github.com/Lobooooooo14/pornlib/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/Lobooooooo14/pornlib/actions/workflows/pages/pages-build-deployment)
-
+[![CodeQL](https://github.com/Lobooooooo14/pornlib/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/Lobooooooo14/pornlib/actions/workflows/codeql-analysis.yml)
 
 ***
 
