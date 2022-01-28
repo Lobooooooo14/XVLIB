@@ -6,9 +6,10 @@ setup(
   name = 'pornlib',
   version = '1.0.0',
   author = 'Lobooooooo',
+  license = 'GPL-3.0 License'
   author_email = 'lobooooooo.py@gmail.com',
-  description = 'A Python package for scrapping at xvideos.com easily.',
-  long_description = '',
+  description = 'A Python package for scrapping at xvideos and others sites easily.',
+  long_description = 'see the documentation: https://lobooooooo14.github.io/pornlib/',
   url = 'https://github.com/lobooooooo14/XVLIB', 
   project_urls = {
     'Github':'https://github.com/lobooooooo14/XVLIB'
