@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
   name = 'pornlib',
-  version = '1.0.1',
+  version = '1.0.0',
   author = 'Lobooooooo',
   license = 'GPL-3.0 License',
   author_email = 'lobooooooo.py@gmail.com',
