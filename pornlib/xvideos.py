@@ -7,7 +7,7 @@ import datetime
 from bs4 import BeautifulSoup as BS
 
 class Xvideos:
-  def __init__(self, url=None, dl_path='./videos download'):
+  def __init__(self, url=None, dl_path='./pornlib download'):
     self.url = str(url)
     self.dl_path = str(dl_path)
  
