@@ -9,7 +9,7 @@ setup(
   license = 'GPL-3.0 License',
   author_email = 'lobooooooo.py@gmail.com',
   description = 'A Python package for scrapping at xvideos easily.',
-  long_description = 'see the documentation: 'https://github.com/lobooooooo14/XVLIB',
+  long_description = 'see the documentation: https://github.com/lobooooooo14/XVLIB',
   url = 'https://github.com/lobooooooo14/XVLIB', 
   project_urls = {
     'Github':'https://github.com/lobooooooo14/XVLIB'
