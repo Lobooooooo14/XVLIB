@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/languages/top/Lobooooooo14/XVLIB?logo=Python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/github/v/release/Lobooooooo14/XVLIB?color=brightgreen&style=for-the-badge">
   <img src="https://img.shields.io/github/license/Lobooooooo14/XVLIB?style=for-the-badge">
+  <img src="https://www.codefactor.io/repository/github/lobooooooo14/xvlib/badge" alt="CodeFactor">
 </div>
 
 ***
